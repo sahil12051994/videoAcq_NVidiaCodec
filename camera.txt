@@ -1,0 +1,2 @@
+rtsp://admin:password%40123@192.1.10.249:554/live/0/MAIN
+rtsp://admin:password%40123@192.1.10.249:554/live/0/MAIN

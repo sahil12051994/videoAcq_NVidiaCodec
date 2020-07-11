@@ -1,0 +1,2 @@
+rtsp://admin:password%40123@192.1.10.38/Streaming/Channels/101
+rtsp://admin:password%40123@192.1.10.80/Streaming/Channels/101

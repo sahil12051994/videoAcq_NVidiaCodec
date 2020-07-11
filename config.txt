@@ -1,0 +1,4 @@
+PATH_KAFKA = /home/jbm//kafka_2.11-2.2.0
+Topic = mpic
+File = camera.txt
+FPS = 11.1
